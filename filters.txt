@@ -1,0 +1,38 @@
+! 2021-11-14 https://www.youtube.com
+www.youtube.com###chatframe
+
+! 2021-11-14 https://stackoverflow.com
+stackoverflow.com##.js-consent-banner
+
+! 2021-11-15 https://old.reddit.com
+old.reddit.com##.listingsignupbar.infobar
+
+! 2021-11-16 https://www.youtube.com
+www.youtube.com##.ytd-mealbar-promo-renderer.style-scope
+
+! 2021-11-17 https://stackoverflow.com
+stackoverflow.com###noscript-warning
+
+! 2021-11-27 https://superuser.com
+superuser.com##.js-consent-banner
+
+# https://github.com/ultramegatom/adblock-twitch-garbage/blob/master/twitch-adblock.txt
+twitch.tv##div.extension-taskbar
+twitch.tv##div.extension-frame-wrapper
+twitch.tv/*player_type=frontpage*
+twitch.tv##.front-page-carousel
+twitch.tv##.anon-front__featured-section
+twitch.tv##div[data-test-selector="test_selector_prime_tracking_button_wrapper"]
+twitch.tv##.gdpr-consent-banner
+twitch.tv##button[data-a-target="top-nav-get-bits-button"]
+twitch.tv##div.prime-offers
+twitch.tv##div.extensions-video-overlay-size-container
+twitch.tv##div.extensions-dock__layout
+twitch.tv##div.extensions-notifications
+twitch.tv##div.community-points-summary
+twitch.tv##button[data-a-target="share-button"]
+twitch.tv##button[data-a-target="bits-button"]
+twitch.tv##div.inline-private-callout-line__header
+twitch.tv##div.radio-content-promo__info-card--expanded
+twitch.tv##div.radio-content-promo__info-card
+twitch.tv##.jSwKMB.Layout-sc-nxg1ff-0
